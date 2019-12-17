@@ -1,4 +1,4 @@
-const githubURL = "https://api.github.com/users/josepplloo/repos";
+const githubURL = "https://api.github.com/users/jersonlopez/repos";
 
 fetch(githubURL)
 .then(response => {
